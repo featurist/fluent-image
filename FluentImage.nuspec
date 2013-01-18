@@ -2,7 +2,7 @@
 <package>
     <metadata>
         <id>FluentImage</id>
-        <version>1.0-streams</version>
+        <version>1.0.1</version>
         <description>Fluent library to apply filters and manipulate images</description>
         <licenseUrl>https://github.com/fakeezz/fluent-image/blob/master/LICENSE.txt</licenseUrl>
         <authors>Alexandre Barbieri</authors>
